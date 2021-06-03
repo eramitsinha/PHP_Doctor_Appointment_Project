@@ -1,0 +1,18 @@
+.mydiv
+{
+	border:2px solid black;
+	width: 50%;
+	margin-top: 10%;
+	padding: 2%; /* inner space */
+	box-shadow: 5px 10px #888888;
+	background: white;
+}
+body
+{
+	background: url('../images/1366120.jpg');
+	background-position: center;
+}
+label
+{
+	float:left;
+}
